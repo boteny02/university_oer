@@ -1,9 +1,9 @@
-## Laravel School Management System (LSMS)
+## University Open Education Respository (UOER)
 
 **LSM System** is a simple role based school management system.
 
 ### Installation
-01. `git clone https://github.com/sanz/laravel-school-management-system.git`
+01. `git clone https://github.com/sanz/laravel-school-management-system.git` 
 02. `cd laravel-school-management-system`
 03. `composer install`
 04. `npm install`
@@ -24,4 +24,4 @@ To test application the database is seeding with users :
 -   Teacher : email = teacher@demo.com, password = 12345678 and Role: Teacher
 -   Parent : email = parent@demo.com, password = 12345678 and Role: Parent
 -   Student : email = student@demo.com, password = 12345678 and Role: Student
-# university_oer
+
